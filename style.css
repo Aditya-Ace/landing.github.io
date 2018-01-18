@@ -63,6 +63,8 @@ hr{
 }
 
 .btn {
+  display: inline-block;
+  text-align: center;
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
